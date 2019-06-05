@@ -1,1 +1,6 @@
-site_name: My Docs
+site_name: ESS-DIVE User Documentation
+nav:
+- Home: 'index.md'
+- ESS-DIVE Repository:
+    - 'Search and data access': 'search-and-data-access.md'
+
