@@ -3,14 +3,18 @@
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-Welcome to ESS-DIVE User Documentation's documentation!
-=======================================================
+Welcome to ESS-DIVE Repository documentation!
+=============================================
 
 .. toctree::
    :maxdepth: 2
    :caption: Contents:
 
    test.md
+   api.html
+   package_service
+
+
 
 
 
