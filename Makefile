@@ -22,4 +22,5 @@ help:
 github:
 	@make html
 	@cp -a $(BUILDDIR)/html/. ./docs
+	@cp $(BUILDDIR)/html/index.html ./index.html
 
