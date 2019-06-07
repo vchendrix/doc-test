@@ -10,7 +10,7 @@ Welcome to ESS-DIVE Repository documentation!
    :maxdepth: 2
    :caption: Contents:
 
-   test.md
+   search_and_access.md
    api.html
    package_service
 

@@ -1,20 +1,16 @@
 # ESS-DIVE DATA ARCHIVE: SEARCH AND DATA ACCESS
+
 *ESS-DIVE DATA PORTAL:* https://data.ess-dive.lbl.gov
+
 *HELP DESK:* ess-dive-support@lbl.gov
-## QUICK START GUIDE
-Go to https://data.ess-dive.lbl.gov
-Browse for datasets using the listing or the map.  
-Search for data using the search bar on the left.
-Click on a dataset title to view the full data package
-To download data: Create an ORCID and login your ORCID.
-Click on the Download data button in the data package view or the blue cloud icon in the main search page.
 
-0. GENERAL INFORMATION	1
-1. ESS-DIVE OVERVIEW	2
-2. VIEWING A DATA PACKAGE AND DOWNLOADING DATA	4
-3. SEARCHING FOR DATA	6
+* Go to https://data.ess-dive.lbl.gov
+* Browse for datasets using the listing or the map.  
+* Search for data using the search bar on the left.
+* Click on a dataset title to view the full data package
+* To download data: Create an ORCID and login your ORCID.
+* Click on the Download data button in the data package view or the blue cloud icon in the main search page.
 
-DETAILED INSTRUCTIONS
 
 ### 0. GENERAL INFORMATION
  
